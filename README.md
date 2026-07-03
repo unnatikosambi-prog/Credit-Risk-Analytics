@@ -33,7 +33,7 @@ This project presents an end-to-end credit risk analysis using Python, SQL, and 
 4. SQL Business Analysis
 5. Power BI Dashboard Development
 6. Business Insight
-
+```
 ## Repository Structure
 
 Credit-Risk-Analysis/
@@ -44,7 +44,7 @@ Credit-Risk-Analysis/
 ├── dashboard/
 ├── report/
 └── README.md
-
+```
 
 
 ## Project Files
