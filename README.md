@@ -67,6 +67,13 @@ Credit-Risk-Analysis/
 
 ---
 
+## Future Improvements
+- Develop a machine learning model to predict loan defaults.
+- Automate data refresh and dashboard updates.
+- Deploy the dashboard using Power BI Service.
+- Integrate real-time loan application data.
+---
+
 ## Author
 
 **Unnati Kosambi**
